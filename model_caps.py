@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  7 19:11:21 2021
 
-@author: srcdo
-"""
 
 from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation, Flatten
